@@ -11,8 +11,8 @@ from .training import train_jepa, jepa_loss, create_context_target_pairs
 from .utils import visualize_representations
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Benjamin Séguin"
+__email__ = "benjamin.seguin@outlook.fr"
 
 __all__ = [
     "JEPA",
